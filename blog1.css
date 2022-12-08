@@ -18,5 +18,16 @@ img{
 
 .image3{
     float: right;
-
+    margin-top: 20px;
+    height:300px;
 }
+
+P{
+
+    height: 300px;
+}
+
+.image4{
+    float: right;
+}
+    
